@@ -50,4 +50,4 @@ This will make sure autopod doesn't search and download native libraries
  - [ ] paramters and help
  - [ ] universal podsync
 
-###### PRs are very much needed, and welcome :)
+###### PRs are very much needed, and welcome :D
